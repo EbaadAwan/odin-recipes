@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin Recipes
+<p>This is my first project using HTML, built as part of my learning through The Odin Project. It's a simple recipe website that showcases three delicious dishes: lamb shawarma, smash burgers, and crispy fried chicken. The project demonstrates the HTML fundamentals I've learned so far, including using headings, adding images, creating ordered and unordered lists, and linking between pages.</p>
